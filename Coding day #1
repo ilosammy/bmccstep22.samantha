@@ -1,0 +1,9 @@
+During the day I worked on 2 topics within the Python 2 course. The 2 topics were "Python Syntax" and "Strings and counsole input".
+Both topics were extremely informative and helped me learn the beginning basics of Python.
+It taught us mainly about strings and variable and even taught us how we can use those skills to find information that is important.
+For example the time and date. I learn to simply find out the time and date through code by using datetime and telling the computer
+to tell me this information with the use of "print "%02d/%02d/%04d %02d:%02d:%02d" % (now.month, now.day, now.year, now.hour, now.minute, now.second)".
+Now usually before this class I would have no clue on what that meant but after todaY I'm able to understand that and so much more
+I felt strong in picking up the new coding techniques found in each lesson
+I felt weak in being able to througly check my code after finding out there was a typo
+I can adress this in the future by making sure I type the code out correctly as I go
